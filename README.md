@@ -1,4 +1,4 @@
-# CUP_Sheduling_algorithms
+# CPU_Sheduling_algorithms
 
 #include <iostream>
 #include <algorithm>
